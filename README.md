@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Suryawanshi</h1>
 <h3 align="center">A passionate SDET Engineer from India</h3>
-<img align="right" alt="Testing" width="350" src="https://pin.it/5oAeSeALM">
+![b83378fbaf9f0ea218f9a11558b03aa4](https://github.com/user-attachments/assets/9fd00b86-a9ac-4043-977b-b1b9cc11d83e)
+
 
 <p align="left"> <a href="https://twitter.com/pranavpatil241" target="blank"><img src="https://img.shields.io/twitter/follow/pranavpatil241?logo=twitter&style=for-the-badge" alt="pranavpatil241" /></a> </p>
 
