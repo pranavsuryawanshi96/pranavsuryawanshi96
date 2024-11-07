@@ -4,12 +4,15 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <a href="https://twitter.com/pranavpatil241" target="blank"><img src="https://img.shields.io/twitter/follow/pranavpatil241?logo=twitter&style=for-the-badge" alt="pranavpatil241" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,Manual Testing**
+- 🌱 I’m currently learning **Java, Automation Testing**
+- 💬 Ask me about ** Java, Javascrip, Manual Testing, Cypress,Potman, RestAssured, **
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10ZvXtOP41SQd85sv2sPG78WE5x-dYnk1/view?usp=drive_link)
+-  📫 Feel free to reach me at **pranavsuryawanshi61@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pranavpatil241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavpatil241" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranav-suryawanshi96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-suryawanshi96" height="30" width="40" /></a>
+  <a href="https://twitter.com/pranavpatil241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavpatil241" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
