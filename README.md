@@ -3,9 +3,11 @@
 <h3 align="center">A passionate SDET Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <a href="https://twitter.com/pranavpatil241" target="blank"><img src="https://img.shields.io/twitter/follow/pranavpatil241?logo=twitter&style=for-the-badge" alt="pranavpatil241" /></a> </p>
-About me :
+# **About me** :
 - 🌱 I’m currently learning **Java, Automation Testing**
 - 💬 Ask me about ** Java, Javascrip, Manual Testing, Cypress,Potman, RestAssured, **
+- 🤩 I’m looking to collaborate on **Manual & Automation** Projects
+- 👨‍🏭 **Mechanical Graduate** and **SDET** 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10ZvXtOP41SQd85sv2sPG78WE5x-dYnk1/view?usp=drive_link)
 -  📫 Feel free to reach me at **pranavsuryawanshi61@gmail.com**
 
