@@ -1,7 +1,7 @@
 [![MasterHead](https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2465797581.jpg)]
 
 <h1 align="center">Hi 👋, I'm Pranav Suryawanshi</h1>
-<h3 align="center">A passionate SDET Engineer from India</h3>
+<h3 align="center">A passionate SDET Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -40,6 +40,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+  <img src="https://camo.githubusercontent.com/5c2595c2fcc9ef7ffa97d14f868547d945d5cee65045377c7c34611b5a67c139/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
