@@ -55,7 +55,7 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavsuryawanshi96&show_icons=true&locale=en" alt="pranavsuryawanshi96" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavsuryawanshi96&show_icons=true&theme=ambient_gradient&locale=en" alt="pranavsuryawanshi96" />
 </p>
 
 <p>
