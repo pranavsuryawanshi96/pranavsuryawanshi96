@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Suryawanshi</h1>
 <h3 align="center">A passionate SDET Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/647040671457727651/.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F647040671457727651%2F&psig=AOvVaw3h92Jh_Gs7dCJ41bpNehVu&ust=1732792687083000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPC9jfix_IkDFQAAAAAdAAAAABAE.gif">
 
 <p align="left">
   <a href="https://twitter.com/pranavpatil241" target="blank">
