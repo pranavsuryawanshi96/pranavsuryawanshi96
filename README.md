@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pranav Suryawanshi</h1>
 <h3 align="center">A passionate SDET Engineer</h3>
+<p align="right">
 <img src="https://github.com/user-attachments/assets/5ac96d1b-a2cc-4458-bac3-c6d9d50d168d" width="350px" height="350px"/>
 
 <p align="left">
