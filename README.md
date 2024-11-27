@@ -51,7 +51,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavsuryawanshi96&show_icons=true&locale=en&layout=compact" alt="pranavsuryawanshi96" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavsuryawanshi96&show_icons=true&locale=en&layout=pie" alt="pranavsuryawanshi96" />
 </p>
 
 <p>&nbsp;
