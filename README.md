@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2465797581.jpg)]
+![[MasterHead](https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2465797581.jpg)]
 
 <h1 align="center">Hi 👋, I'm Pranav Suryawanshi</h1>
 <h3 align="center">A passionate SDET Engineer</h3>
