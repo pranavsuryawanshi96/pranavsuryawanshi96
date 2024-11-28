@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/twitter/follow/pranavpatil241?logo=twitter&style=for-the-badge" alt="pranavpatil241" />
   </a>
 </p>
-![](https://komarev.com/ghpvc/?username=pranavsuryawanshi96&color=red)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavsuryawanshi96&label=Profile%20views&color=red&style=flat" alt="pranavsuryawanshi96" /> </p>
 
 # **About me**
 - 🌱 I’m currently learning **Java, Automation Testing**
