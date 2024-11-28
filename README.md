@@ -57,8 +57,21 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   
   </a>
 </p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavsuryawanshi96&show_icons=true&theme=ambient_gradient" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavsuryawanshi96&theme=ambient_gradient" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavsuryawanshi96&show_icons=true&theme=ambient_gradient&layout=compact" alt="Most Used Languages" />
-</div
+<p align="center">
+
+<a href="https://github.com/pranavsuryawanshi96" title="Redirects to Pranav's GitHub">
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=pranavsuryawanshi96&show_icons=true&theme=ambient_gradient&count_private=true&text_color=d3d3d3&icon_color=FF9F00&title_color=FF9F00" /></a>
+
+<a href="https://github.com/pranavsuryawanshi96">
+<img width="49%" title="Redirects to Pranav's GitHub" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavsuryawanshi96&theme=ambient_gradient&stroke=0000" /></a>
+
+<a href="https://github.com/pranavsuryawanshi96" title="Redirects to Pranav's GitHub">
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsuryawanshi96&layout=compact&theme=ambient_gradient&langs_count=6&count_private=true&text_color=d3d3d3&title_color=FF9F00"/></a>
+
+</div>
+
+
+<img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width = 100%>
+
+
+</p>
