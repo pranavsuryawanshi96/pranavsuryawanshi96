@@ -28,7 +28,12 @@
 - **Development Tools**: Visual Studio Code, Spring Suite Tool
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranavsuryawanshi96)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pranavsuryawanshi96" alt="pranavsuryawanshi96" />
+  </a> 
+</p>
 
 ## 🤝Connect with me
 <p align="left">
