@@ -19,6 +19,7 @@
 - 👨‍🏭 **Mechanical Graduate** and **SDET**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10ZvXtOP41SQd85sv2sPG78WE5x-dYnk1/view?usp=drive_link)
 - 📫 Feel free to reach me at **pranavsuryawanshi61@gmail.com**
+- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - ## 🔧 **Skills**:
 - **Languages**: Java, JavaScript, Python (basic)
 - **Automation Tools**: Selenium WebDriver, Cypress, TestNG
