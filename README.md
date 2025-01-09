@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavsuryawanshi96&label=Profile%20views&color=red&style=flat" alt="pranavsuryawanshi96" /> </p>
 
 # **About me**
-- 🌱 I’m currently learning **Java, Automation Testing**
+- 🌱 I’m currently learning **Mobile Testing Appium**
 - 💬 Ask me about **Java, JavaScript, Manual Testing, Cypress, Postman, RestAssured**
 - 🤩 I’m looking to collaborate on **Manual & Automation** Projects
 - 👨‍🏭 **Mechanical Graduate** and **SDET**
