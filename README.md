@@ -21,11 +21,11 @@
 - 📫 Feel free to reach me at **pranavsuryawanshi61@gmail.com**
 - [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - ## 🔧 **Skills**:
-- **Languages**: Java, JavaScript, Python (basic)
+- **Languages**: Java, JavaScript
 - **Automation Tools**: Selenium WebDriver, Cypress, TestNG
 - **Frameworks**: Cucumber (BDD), Page Object Model (POM)
 - **Testing**: Manual Testing, API Testing (Postman, REST Assured)
-- **Development Tools**: Visual Studio Code, Spring Suite Tool
+- **Development Tools**: Visual Studio Code, Spring Suite Tool,Andriod Studio,Eclipse
 
 ---
 ## 🏆 GitHub Trophies
