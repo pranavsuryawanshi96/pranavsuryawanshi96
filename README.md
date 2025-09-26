@@ -13,15 +13,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavsuryawanshi96&label=Profile%20views&color=red&style=flat" alt="pranavsuryawanshi96" /> </p>
 
 # **About me**
-- 🌱 I’m currently learning **Mobile Testing Appium**
-- 💬 Ask me about **Java, JavaScript, Manual Testing, Cypress, Postman, RestAssured**
-- 🤩 I’m looking to collaborate on **Manual & Automation** Projects
+- ⚡ Actively working on **Automation Frameworks (Cypress, Selenium, Pytest)**  
+- 💬 Ask me about **Java, JavaScript, Manual Testing, Cypress, Postman, REST Assured**  
+- 🤝 Open to collaborating on **Manual & Automation Testing Projects**  
+- 👨‍💻 Currently working as a **SDET @ Conceptvines**  
+- 👨‍🏭 **Mechanical Graduate** transitioning into **SDET**  
+- 🚀 Hands-on experience with **CI/CD pipelines (GitHub Actions)** 
 - 👨‍🏭 **Mechanical Graduate** and **SDET**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10ZvXtOP41SQd85sv2sPG78WE5x-dYnk1/view?usp=drive_link)
 - 📫 Feel free to reach me at **pranavsuryawanshi61@gmail.com**
 - [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - ## 🔧 **Skills**:
-- **Languages**: Java, JavaScript
+- **Languages**: Java, JavaScript, Typescript
 - **Automation Tools**: Selenium WebDriver, Cypress, TestNG
 - **Frameworks**: Cucumber (BDD), Page Object Model (POM)
 - **Testing**: Manual Testing, API Testing (Postman, REST Assured)
