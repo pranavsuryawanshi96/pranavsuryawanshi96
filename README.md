@@ -19,7 +19,7 @@
 - 👨‍💻 Currently working as a **SDET @ Conceptvines**  
 - 🚀 Hands-on experience with **CI/CD pipelines (GitHub Actions)** 
 - 👨‍🏭 **B.Tech** and **SDET**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1r2GD-SHIyM5YR5dd1PEBXxNG0z-3ldQX/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KeOyHIecjgUTBJ2YUpA1w5SPV5Cs5Mxd/view?usp=drive_link)
 - 📫 Feel free to reach me at **pranavsuryawanshi61@gmail.com**
 - [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - ## 🔧 **Skills**:
