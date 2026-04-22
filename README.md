@@ -37,71 +37,35 @@
   </a> 
 </p>
 
-## 🤝Connect with me
+## 🤝 Connect with me
+
 <p align="left">
-  <a href="https://linkedin.com/in/pranav-suryawanshi96" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-suryawanshi96" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/pranavpatil241" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavpatil241" height="30" width="40" />
-  </a>
-<h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
-
-<!-- HTML -->
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer" style="text-decoration:none;"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
-</a>
-
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
-</a>
-
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-</a>
-
-<!-- Java -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
-</a>
-
-<!-- Cypress -->
-<a href="https://www.cypress.io"> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" width="40" height="40"/> 
-</a>
-
-<!-- Selenium -->
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://logo.svgcdn.com/logos/selenium.svg" 
-  alt="selenium" width="40" height="40"/> 
-</a>
-
-<!-- Cucumber -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="40" height="40"/>
-
-<!-- Mocha -->
-<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="40" height="40"/>
-
-<!-- Postman -->
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-
-<!-- VS Code -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-
-<!-- IntelliJ IDEA -->
-<img src="https://skillicons.dev/icons?i=idea" width="40" height="40"/>
-
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
+<a href="https://linkedin.com/in/pranav-suryawanshi96" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a><a href="https://twitter.com/pranavpatil241" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
 </a>
 
 </p>
+<h3 align="left">Languages and Tools:</h3>
 
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" width="45"/>
+<img src="https://logo.svgcdn.com/logos/selenium.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=idea" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+
+</p>
 
 <p align="center">
 
