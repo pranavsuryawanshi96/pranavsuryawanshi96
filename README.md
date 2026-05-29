@@ -1,7 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2465797581.jpg)]
-
 <h1 align="center">Hi 👋, I'm Pranav Suryawanshi</h1>
-<h3 align="center">A passionate SDET Engineer</h3>
 <p align="right">
 <img src="https://github.com/user-attachments/assets/5ac96d1b-a2cc-4458-bac3-c6d9d50d168d" width="250px" height="250px"/>
 
@@ -12,22 +9,17 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavsuryawanshi96&label=Profile%20views&color=red&style=flat" alt="pranavsuryawanshi96" /> </p>
 
-# **About me**
-- ⚡ Actively working on **Automation Frameworks (Cypress, Selenium, Pytest)**  
-- 💬 Ask me about **Java, JavaScript, Manual Testing, Cypress, Postman, REST Assured**  
-- 🤝 Open to collaborating on **Manual & Automation Testing Projects**  
-- 👨‍💻 Currently working as a **SDET @ Conceptvines**  
+# **About me**  
+- 💬 Ask me about **JavaScript ES6,React.js, Cypress**    
+- 👨‍💻 Currently working as a **SWE @ Conceptvines AI**  
 - 🚀 Hands-on experience with **CI/CD pipelines (GitHub Actions)** 
-- 👨‍🏭 **B.Tech** and **SDET**
+- 👨‍🏭 **B.Tech**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KeOyHIecjgUTBJ2YUpA1w5SPV5Cs5Mxd/view?usp=drive_link)
 - 📫 Feel free to reach me at **pranavsuryawanshi61@gmail.com**
 - [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - ## 🔧 **Skills**:
-- **Languages**: Java, JavaScript, Typescript
-- **Automation Tools**: Selenium WebDriver, Cypress, TestNG
-- **Frameworks**: Cucumber (BDD), Page Object Model (POM)
-- **Testing**: Manual Testing, API Testing (Postman, REST Assured)
-- **Development Tools**: Visual Studio Code, Spring Suite Tool,Andriod Studio,Eclipse
+- **Languages**: Java, JavaScript ES6, Typescript
+- **Automation Tools**: Selenium WebDriver, Cypress
 
 ---
 ## 🏆 GitHub Trophies
