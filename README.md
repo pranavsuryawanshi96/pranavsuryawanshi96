@@ -18,8 +18,9 @@
 - 📫 Feel free to reach me at **pranavsuryawanshi61@gmail.com**
 - [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - ## 🔧 **Skills**:
-- **Languages**: Java, JavaScript ES6, Typescript
-- **Automation Tools**: Selenium WebDriver, Cypress
+- **Languages**: Java, JavaScript ES6, 
+- **Testing Tools**:  Cypress
+- **Cloud**:Microsoft Azure 
 
 ---
 ## 🏆 GitHub Trophies
@@ -49,12 +50,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" width="45"/>
-<img src="https://logo.svgcdn.com/logos/selenium.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="45"/>
 <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="45"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 <img src="https://skillicons.dev/icons?i=idea" width="45"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
