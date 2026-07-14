@@ -11,7 +11,7 @@
 
 # **About me**  
 - 💬 Ask me about **JavaScript ES6,React.js, Cypress**    
-- 👨‍💻 Currently working as a **SWE @ Conceptvines AI**  
+- 👨‍💻 Currently working as a **SDET @ Conceptvines AI**  
 - 🚀 Hands-on experience with **CI/CD pipelines (GitHub Actions)** 
 - 👨‍🏭 **B.Tech**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19J8DrZDbdsqzpiIczHhaz_GfZmteubzh/view?usp=drive_link)
@@ -19,7 +19,7 @@
 - [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - ## 🔧 **Skills**:
 - **Languages**: Java, JavaScript ES6, 
-- **Testing Tools**:  Cypress
+- **Testing Tools**:  Cypress,Playwrite,Selenium
 - **Cloud**:Microsoft Azure 
 
 ---
