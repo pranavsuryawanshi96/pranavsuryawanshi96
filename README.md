@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavsuryawanshi96&label=Profile%20views&color=red&style=flat" alt="pranavsuryawanshi96" /> </p>
 
 # **About me**  
-- 💬 Ask me about **JavaScript ES6,React.js, Cypress**    
+- 💬 Ask me about **JavaScript ES6,React.js,Playwrite Cypress**    
 - 👨‍💻 Currently working as a **SDET @ Conceptvines AI**  
 - 🚀 Hands-on experience with **CI/CD pipelines (GitHub Actions)** 
 - 👨‍🏭 **B.Tech**
@@ -19,7 +19,7 @@
 - [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - ## 🔧 **Skills**:
 - **Languages**: Java, JavaScript ES6, 
-- **Testing Tools**:  Cypress,Playwrite,Selenium
+- **Testing Tools**:  Playwrite,Cypress,Playwrite,Selenium
 - **Cloud**:Microsoft Azure 
 
 ---
