@@ -10,11 +10,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavsuryawanshi96&label=Profile%20views&color=red&style=flat" alt="pranavsuryawanshi96" /> </p>
 
 # **About me**  
-- 💬 Ask me about **JavaScript ES6,React.js,Playwrite Cypress**    
+- 💬 Ask me about **JavaScript ES6,React.js,Playwrite,Cypress**    
 - 👨‍💻 Currently working as a **SDET @ Conceptvines AI**  
 - 🚀 Hands-on experience with **CI/CD pipelines (GitHub Actions)** 
 - 👨‍🏭 **B.Tech**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aKVxp7b7RmGsT11xRfQxOUV_P1xoKKFb/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/142NuWljlOp1f9C8rIH_bgHTOGtlXfo3v/view?usp=drive_link)
 - 📫 Feel free to reach me at **pranavsuryawanshi61@gmail.com**
 - [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - ## 🔧 **Skills**:
