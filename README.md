@@ -11,7 +11,7 @@
 
 # **About me**  
 - 💬 Ask me about **JavaScript ES6,React.js,Playwright,Cypress**    
-- 👨‍💻 Currently working as a **SDET @ Conceptvines AI**  
+- 👨‍💻 Currently working as a **SDE @ Conceptvines AI**  
 - 🚀 Hands-on experience with **CI/CD pipelines (GitHub Actions)** 
 - 👨‍🏭 **B.Tech**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/142NuWljlOp1f9C8rIH_bgHTOGtlXfo3v/view?usp=drive_link)
